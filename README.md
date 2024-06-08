@@ -33,3 +33,7 @@ The backend of the Shop Management System is built using Java Spring Boot and co
 1. Clone the repository:
    ```bash
    git clone https://github.com/Omkar-Janakwade/Spring_Shop_Management_System_Backend.git
+
+   
+## Contact
+For any inquiries, please contact us at janakwadeom@gmail.com .
