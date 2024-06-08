@@ -9,11 +9,18 @@ The backend of the Shop Management System is built using Java Spring Boot and co
 - **Database:** MySQL
 - **Build Tool:** Maven
 
+
 ## Key Features
-- **User Management:** Handles user registration, authentication, and account management.
-- **Transaction Management:** Manages user transactions, including daily subscriptions and bulk orders.
-- **Activity Monitoring:** Provides functionality for administrators to monitor user activities and transactions.
-- **API Endpoints:** RESTful APIs for various functionalities of the Shop Management System.
+### User Functionality
+- **Daily Water Delivery Subscription Management:** Allows users to manage their daily water delivery subscriptions.
+- **Bulk Water Order Booking:** Enables users to book bulk water orders for events.
+- **Transaction History Viewing:** Provides users with a detailed view of their transaction history.
+
+### Admin Functionality
+- **Manage User Transactions:** Administrators can manage and oversee all user transactions.
+- **Monitor Activities:** Administrators can monitor user activities within the system.
+- **Account Management:** Allows administrators to manage user accounts and their permissions.
+
 
 ## Installation Instructions
 
